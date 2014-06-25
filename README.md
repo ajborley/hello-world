@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Test repository
+Andrew's Hello-World project - for him to try out Github stuff
